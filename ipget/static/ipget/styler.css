@@ -1,0 +1,236 @@
+body {
+    background: white url("images/location.jpg") no-repeat;
+	background-size: cover;
+}
+
+h2{
+	color: #9bffa4;
+	text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
+}
+
+table {
+    border-collapse: collapse;
+	border:1;
+	height: 80%;
+	width: 80%;
+	background-color: white;
+	border-spacing:0px;
+	border-color:black;
+	border-width:1px;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+b{
+	color: white;
+	font-style: bold;
+	font-size: 18px;
+}
+a:link {
+	color: green;
+    text-decoration: none;
+}
+
+a:visited {
+	color: #4fffb2;
+    text-decoration: none;
+}
+
+a:hover {
+	color: #4fffb2;
+    text-decoration: underline;
+}
+
+a:active {
+	color: #4fffb2;
+    text-decoration: underline;
+}
+
+#multip{
+	border:1;
+	background-color: white;
+	border-spacing:0px;
+	border-color:black;
+	border-width:1px;
+	
+}
+
+#ip{
+	width:180px;
+	height:30px;
+	font-size: 16px;
+}
+#ipfile{
+	color: white;
+	width:200px;
+	height:30px;
+	font-size: 16px;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);	
+}
+
+#lspace{
+		line-height: 10px;
+		white-space: pre;
+}
+
+#map{ height: 100%;
+	  width: 100%;
+	  min-height: 320px;
+	  min-width: 500px;	
+}
+
+
+#bt1{
+	background-color: #0fb784;
+	border: none;
+	color: white;
+	padding: 2px 3px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;	   
+
+}
+
+#bt1:hover{
+	background-color: #0fb784;
+	border: none;
+	color: black;
+	padding: 2px 3px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;	   
+
+}
+
+#bt1:active{
+	background-color: #4fffb2;
+	border: none;
+	color: black;
+	padding: 2px 3px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;	   
+
+}
+#bt2{
+	background-color: #0fb784;
+	border: none;
+	color: white;
+	padding: 2px 3px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;	   
+
+}
+
+#bt2:hover{
+	background-color: #0fb784;
+	border: none;
+	color: black;
+	padding: 2px 3px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;	   
+
+}
+
+#bt2:active{
+	background-color: #4fffb2;
+	border: none;
+	color: black;
+	padding: 2px 3px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;	   
+
+}
+
+#bt3{
+	background-color: #0fb784;
+	border: none;
+	color: white;
+	padding: 2px 3px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;	   
+
+}
+
+#bt3:hover{
+	background-color: #0fb784;
+	border: none;
+	color: black;
+	padding: 2px 3px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;	   
+
+}
+
+#bt3:active{
+	background-color: #4fffb2;
+	border: none;
+	color: black;
+	padding: 2px 3px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;	   
+
+}
+
+.inv{
+  background-color: transparent;
+  border: none;
+  background-color: transparent;
+  color: black;
+  font-size: 20px;
+}
+
+#uploadFile {
+  border: none;
+  background-color: transparent;
+  color: black;
+  font-size: 16px;
+  width: 120px;
+}
